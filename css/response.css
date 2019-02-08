@@ -1,0 +1,14 @@
+
+
+@media only screen and (min-width: 576px) { 
+    .banner1 { margin-top: 3.6rem; }
+}
+
+// Medium devices (tablets, 768px and up)
+@media (min-width: 768px) { ... }
+
+// Large devices (desktops, 992px and up)
+@media (min-width: 992px) { ... }
+
+// Extra large devices (large desktops, 1200px and up)
+@media (min-width: 1200px) { ... }
